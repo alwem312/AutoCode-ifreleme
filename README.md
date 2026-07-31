@@ -1,0 +1,2 @@
+# AutoCode-ifreleme
+AutoCode Şifreleme
